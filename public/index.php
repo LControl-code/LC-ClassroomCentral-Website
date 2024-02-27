@@ -21,9 +21,6 @@
   </main>
 
   <?php include_once __DIR__ . "/modules/footer.php"; ?>
-  <script>
-    myUndefinedFunction();
-  </script>
 </body>
 
 </html>
